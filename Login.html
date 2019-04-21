@@ -1,0 +1,52 @@
+<div class="container">
+    <form class="form-horizontal" method="post" action="Login">
+        <fieldset>
+
+            <!-- Form Name -->
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="username">User Name</label>  
+                <div class="col-md-5">
+                    <input id="username" name="username" type="text" placeholder="your user name" class="form-control input-md" required="">
+
+                </div>
+            </div>
+
+            <!-- Password input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="password">Password </label>
+                <div class="col-md-5">
+                    <input id="password" name="password" type="password" placeholder="password" class="form-control input-md" required="">
+
+                </div>
+            </div>
+
+            <!-- Select Basic -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="usertype">UserType</label>
+                <div class="col-md-5">
+                    <select id="usertype" name="usertype" class="form-control">
+                        <option value="customer">Customer</option>
+                        <option value="retailer">Store Manager</option>
+                        <option value="manager">Salesman</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="loginbutton"></label>
+                <div class="col-md-4">
+                    <button id="loginbutton" name="loginbutton" class="btn btn-primary">Login</button>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="otheroptions"></label>
+                <div class="col-md-5">
+                    <a href="Registration" name="otheroptions">New User? Register here</a>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+
+</div>

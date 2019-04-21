@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <SmartPhoneCatalog>
+        <phone id="oneplus">
+            <name>OnePlus 3T</name>
+            <price>399.99</price>
+            <image>oneplus 3T.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <accessories>
+                <accessory>oneplus_case</accessory>
+                <accessory>oneplus_ear</accessory>
+            </accessories>
+        </phone>
+        <phone id="samsungs7">
+            <name>Samsung Galaxy S8 Edge</name>
+            <price>399.99</price>
+            <image>s8e.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <accessories>
+                <accessory>s8_ear</accessory>
+                <accessory>s8_case</accessory>
+            </accessories>
+        </phone>
+        <phone id="iphone7plus">
+            <name>iPhone 7 Plus</name>
+            <price>749.99</price>
+            <image>i7plus.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <accessories>
+                <accessory>iphone7_plus_case</accessory>
+            </accessories>
+        </phone>
+        <phone id="googlepixel">
+            <name>Google Pixel</name>
+            <price>649.99</price>
+            <image>google pixel.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </phone>
+        <phone id="htc10">
+            <name>HTC 10</name>
+            <price>457.99</price>
+            <image>htc 10.jpg</image>
+            <manufacturer>HTC</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+        </phone>
+        <phone id="lenovop2">
+            <name>Lenovo P2</name>
+            <price>289.99</price>
+            <image>Lenovo P2.JPG</image>
+            <manufacturer>Lenovo</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+        </phone>
+        <phone id="motorolamotoz">
+            <name>Motorola Moto Z</name>
+            <price>189.99</price>
+            <image>Motorola Moto Z.jpg</image>
+            <manufacturer>Motorola</manufacturer>
+            <condition>Used</condition>
+            <discount>10.0</discount>
+        </phone>
+        <phone id="sonyexperiaxz">
+            <name>Sony Xperia XZ</name>
+            <price>320.99</price>
+            <image>Sony Xperia XZ.JPG</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </phone>
+    </SmartPhoneCatalog>
+
+    <TabletCatalog>
+        <tablet id="ipad">
+            <name>Apple Ipad Pro</name>
+            <price>189.99</price>
+            <image>apple1.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+        </tablet>
+        <tablet id="ipad3">
+            <name>Apple Ipad 3</name>
+            <price>189.99</price>
+            <image>apple2.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>Used</condition>
+            <discount>20.0</discount>
+        </tablet>
+        <tablet id="Surface">
+            <name>Surface</name>
+            <price>299.99</price>
+            <image>m1.jpg</image>
+            <manufacturer>Microsoft</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+        </tablet>
+        <tablet id="Surface4">
+            <name>Surface Pro 4</name>
+            <price>299.99</price>
+            <image>m2.jpg</image>
+            <manufacturer>Microsoft</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+        </tablet>
+        <tablet id="Samsung2">
+            <name>Samsung Tab 2</name>
+            <price>150.99</price>
+            <image>s1.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+        </tablet>
+
+    </TabletCatalog>
+    
+    <LaptopCatalog>
+        <laptop id="applemacbookpro">
+            <name>Apple MacBook Pro</name>
+            <price>1401.99</price>
+            <image>applepro.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>.0</discount>
+        </laptop>
+        <laptop id="hpspectrex360">
+            <name>HP Spectre X360</name>
+            <price>1079.00</price>
+            <image>hpx360.jpg</image>
+            <manufacturer>HP</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="dell17">
+            <name>Dell Alienware 17</name>
+            <price>1269.00</price>
+            <image>dellalpha.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </laptop>
+    </LaptopCatalog>
+
+    <TVCatalog>
+        <tv id="samsungcurve">
+            <name>Samsung Curve</name>
+            <price>1449.99</price>
+            <image>samcurve.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </tv>
+        <tv id="lgcurved">
+            <name>LG Curved OLED</name>
+            <price>2499.00</price>
+            <image>lgcurve.jpg</image>
+            <manufacturer>LG</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </tv>
+    </TVCatalog>
+    
+    <AccessoryCatalog>
+        <accessory id="oneplus_ear">
+            <name>OnePlus 3T Bluetooth</name>
+            <price>89.99</price>
+            <image>XBOX360-SpeedWheel.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </accessory>
+       
+        <accessory id="oneplus_case">
+            <name>OnePlus 3 Achiever</name>
+            <price>9.99</price>
+            <image>Turtle Beach Headset.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+        </accessory>
+
+        <accessory id="s7_ear">
+            <name>S7 Ear</name>
+            <price>89.99</price>
+            <image>XBOX controller.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+        </accessory>
+
+        <accessory id="s7_case">
+            <name>S7 Phone Case</name>
+            <price>18.99</price>
+            <image>xbox360_wa.png</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+        </accessory>
+
+        <accessory id="iphone7_plus_cas">
+            <name>Fancy iPhone Case</name>
+            <price>89.99</price>
+            <image>XBOX controller.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+        </accessory>
+    </AccessoryCatalog>
+</ProductCatalog>
